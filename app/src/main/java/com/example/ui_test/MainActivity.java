@@ -38,6 +38,7 @@ public class MainActivity extends AppCompatActivity {
     // Parsed colors
     private int[] mStartColors = new int[MODEL_COUNT];
     private int[] mEndColors = new int[MODEL_COUNT];
+    //private int[] mEndColors2 = new int[MODEL_COUNT];
     private int[] mBatteryColors = new int[MODEL_COUNT];
 
     @Override
